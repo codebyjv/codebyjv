@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Vitor
 
-<!--
-**codebyjv/codebyjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Quality Assurance | Testes Automatizados | QA Engineer em formação**
 
-Here are some ideas to get you started:
+Um aspirante a desenvolvedor que se encontrou em qualidade em software e atualmente estudo e pratico automação de testes.  
+Aqui você vai encontrar meus projetos, estudos e experimentos relacionados a QA e desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas
+- **QA (em aprendizado):** Testes exploratórios, conceitos de automação
+- **Front-end:** React, TypeScript, HTML, CSS
+- **Back-end / Scripts:** Python, C# (básico)
+- **Outros:** Jira, Trello, Docker
+
+---
+
+## 📌 Projetos em destaque
+- [QA-Portfolio](https://github.com/codebyjv/QA-Portfolio) – Meu portfólio com casos de teste e exemplos de automação.
+- [Email-Sender](https://github.com/codebyjv/Email-sender) - Ferramenta de envio em massa de e-mails utilizado como solução na empresa WL Pesos Padrão.
+- [PortaldeRastreio](https://github.com/codebyjv/PortaldeRastreio) - Ferramenta de rastreio de pedidos utilizada como solução na empresa WL Pesos Padrão.
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebyjv&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjv&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/joaov-sant/)
+- Email: jvitor6674@gmail.com
+
+---
+
+✨ Sempre aprendendo e compartilhando conhecimento sobre qualidade de software!
