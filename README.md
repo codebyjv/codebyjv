@@ -30,7 +30,7 @@ Git | GitHub | Docker | Jira | Trello
 
 🔹 **Sistema de Automação com Google Apps Script**  
 Automação desenvolvida para otimizar processos internos, integrando formulários, planilhas e interface web com HTML.  
-👉 (desenvolvimento...)
+👉 https://github.com/codebyjv/Google_Automation
 
 🔹 **Email Sender (Automação de Processos)**  
 Ferramenta de envio em massa de e-mails criada para reduzir tarefas manuais e aumentar a eficiência operacional.  
