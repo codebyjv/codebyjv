@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor em formação | Python | Automação | Desenvolvimento Web**
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou construindo minha carreira como desenvolvedor, com foco em back-end, automação e soluções práticas para problemas reais.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou construindo minha carreira como desenvolvedor, com foco em front-end, automação e soluções práticas para problemas reais.
 
 Tenho experiência criando ferramentas internas e aplicações que otimizam processos, conectando lógica de programação com necessidades do negócio.
 
@@ -32,17 +32,13 @@ Git | GitHub | Docker | Jira | Trello
 Automação desenvolvida para otimizar processos internos, integrando formulários, planilhas e interface web com HTML.  
 👉 https://github.com/codebyjv/Google_Automation
 
-🔹 **Email Sender (Automação de Processos)**  
-Ferramenta de envio em massa de e-mails criada para reduzir tarefas manuais e aumentar a eficiência operacional.  
-👉 https://github.com/codebyjv/Email-sender  
+🔹 **Onepage - Studio Alicia Costa**  
+Site onepage desenvolvido em HTML, CSS e JavaScript com foco em alta conversão de clientes e organização de agenda e pagamentos com flexibilidade via WhatsApp.
+👉 https://github.com/codebyjv/AliciaCosta-Site
 
-🔹 **Portal de Rastreio**  
-Aplicação web para rastreamento de pedidos, focada em centralizar informações e melhorar a experiência do usuário.  
-👉 https://github.com/codebyjv/PortaldeRastreio  
-
-🔹 **QA Portfolio (Reaproveitado como estudo de qualidade)**  
-Repositório com estudos de testes e validação de software, contribuindo para desenvolvimento de código mais confiável.  
-👉 https://github.com/codebyjv/QA-Portfolio  
+🔹 **Onepage - Cris Hair**  
+Site onepage em desenvolvimento em HTML, CSS e JavaScipt. 
+👉 https://github.com/...
 
 ---
 
@@ -60,4 +56,4 @@ Repositório com estudos de testes e validação de software, contribuindo para 
 
 ---
 
-💡 Atualmente focado em evoluir em desenvolvimento back-end com Python, automação de processos e construção de aplicações web.
+💡 Atualmente focado em evoluir em desenvolvimento front-end.
