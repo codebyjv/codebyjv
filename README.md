@@ -22,7 +22,7 @@ HTML | CSS | JavaScript | React | TypeScript
 SQL | Modelagem de Dados  
 
 **Ferramentas:**  
-Git | GitHub | Docker | Jira | Trello  
+Git | GitHub | Jira | Trello  
 
 ---
 
@@ -42,18 +42,7 @@ Site onepage em desenvolvimento em HTML, CSS e JavaScipt.
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebyjv&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjv&layout=compact&theme=radical)
-
----
-
 ## 📫 Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/joaov-sant/  
 📧 Email: jvitor6674@gmail.com  
-
----
-
-💡 Atualmente focado em evoluir em desenvolvimento front-end.
